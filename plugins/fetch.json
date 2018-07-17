@@ -1,0 +1,28 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-qrscanner": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-qrscanner"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "com.zhaoying.GaoDeLocation": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/DaiHuaXieHuaKai/GaoDeLocation.git"
+    },
+    "is_top_level": true,
+    "variables": {
+      "API_KEY": "32c060735038736503b1d3003f1eabe5"
+    }
+  }
+}

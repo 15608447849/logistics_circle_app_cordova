@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+    <widget android-packageName="com.fspace.logisticsCircle" id="com.cordova.logistics" ios-CFBundleIdentifier="com.fspace.logisticsCircle" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>物流承运人平台</name>
+    <description>
+        物流承接发布平台
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+    <plugin name="cordova-plugin-whitelist" spec="1" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+    <plugin name="cordova-plugin-qrscanner" spec="^2.6.0" />
+    <plugin name="com.zhaoying.GaoDeLocation" spec="https://github.com/DaiHuaXieHuaKai/GaoDeLocation.git">
+        <variable name="API_KEY" value="32c060735038736503b1d3003f1eabe5" />
+    </plugin>
+</widget>

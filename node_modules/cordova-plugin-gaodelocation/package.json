@@ -1,0 +1,50 @@
+{
+  "_from": "git+https://github.com/DaiHuaXieHuaKai/GaoDeLocation.git",
+  "_id": "cordova-plugin-gaodelocation@1.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-gaodelocation",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/DaiHuaXieHuaKai/GaoDeLocation.git",
+    "rawSpec": "https://github.com/DaiHuaXieHuaKai/GaoDeLocation.git",
+    "saveSpec": "git+https://github.com/DaiHuaXieHuaKai/GaoDeLocation.git",
+    "fetchSpec": "https://github.com/DaiHuaXieHuaKai/GaoDeLocation.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/DaiHuaXieHuaKai/GaoDeLocation.git#b561f0ee643472d762d7ddd9137e891f629b377b",
+  "_spec": "https://github.com/DaiHuaXieHuaKai/GaoDeLocation.git",
+  "_where": "C:\\WebProjects\\logistics_circle_app_cordova",
+  "author": {
+    "name": "zhaoying"
+  },
+  "bugs": {
+    "url": "https://github.com/DaiHuaXieHuaKai/GaoDeLocation/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "com.zhaoying.GaoDeLocation",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Use of a gold maps to locate, to obtain location information",
+  "homepage": "https://github.com/DaiHuaXieHuaKai/GaoDeLocation#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "ISC",
+  "name": "cordova-plugin-gaodelocation",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaiHuaXieHuaKai/GaoDeLocation.git"
+  },
+  "version": "1.0.1"
+}
